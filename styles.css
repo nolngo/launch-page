@@ -1,0 +1,51 @@
+body {
+  color: goldenrod;
+}
+h1 {
+  color: gold;
+}
+.navbar {
+  padding: 1rem;
+}
+.navbar a{
+  color: goldenrod;
+}
+.navbar-brand {
+  color: gold;
+}
+.footer {
+  background-color: darkslategray;
+  padding: 1rem;
+  color: gold;
+}
+.btn-primary:hover {
+  background-color: darkred;
+  color: darkgreen;
+}
+.hero-background-img {
+  background-image: url("backgroundimg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:375px;
+  padding-bottom:375px;
+}
+.jumbotron h1{
+  font-size: 80px;
+  color: goldenrod;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #035763;
+
+}
+.lead {
+  font-size: 40px;
+  color: goldenrod;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #035763;
+
+}
+iframe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
